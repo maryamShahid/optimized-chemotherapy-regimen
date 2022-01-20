@@ -1,6 +1,6 @@
 # Optimized Chemotherapy Regimen
 
-Modelling and opitimization of a chemotherapy medical regimen problem from Operations Research using Gurubi.
+Modelling and opitimization of a chemotherapy medical regimen from Operations Research using Gurubi.
 
 ### Contents
 
